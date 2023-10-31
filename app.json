@@ -1,7 +1,7 @@
 {
   "name": "sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
-  "description": "مصنع بوتات استخراج ترمكس مقدم من سورس تربون  😈",
-  "logo": "https://telegra.ph/file/8a8bb425789271b188952.jpg",
+  "description": "مصنع بوتات استخراج ترمكس مقدم من سورس 𝑴𝑨𝑹𝑳𝑶𝑾😈",
+  "logo": "https://graph.org/file/4e69a8c7245d7ec56c999.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -41,7 +41,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "B_R_O_6"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
